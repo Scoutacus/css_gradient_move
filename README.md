@@ -1,0 +1,1 @@
+The goal of this project is to create a sliding gradient in CSS for use in twitch background/start of stream scenarios
